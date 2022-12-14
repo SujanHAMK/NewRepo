@@ -19,7 +19,8 @@ public class NewPro {
 		        }
 		    }	 
 	    }
-	}
+	}			//1st change
+	
 	class Car {
 	    private String brand;
 	    private String model;
@@ -55,4 +56,4 @@ public class NewPro {
 	        System.out.println("Fuel: "+ amountOfFuel);
 	    }   
 	    
-	}    
+}    
